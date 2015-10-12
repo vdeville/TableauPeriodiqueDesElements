@@ -1,0 +1,96 @@
+p{
+    font-size: 10px;
+}
+#tuto .row{
+    margin: 0;
+}
+#tuto{
+    margin-right: -15px;
+}
+#tuto p{
+    font-size: 14px;
+}
+.row{
+    margin-top: 4px;
+}
+.carre p{
+    font-size: 14px;
+    margin-top: 5px;
+}
+.carre p:nth-child(1){
+    font-size: 8px;
+    text-transform: uppercase;
+}
+.carre p:nth-child(3){
+    font-size: 20px;
+    font-weight: bold;
+}
+#vide{
+    height: 90px;
+    width: 60px;
+    margin-right: 4px;
+    background-color: none;
+}
+#vide-haut{
+    width: 60px;
+    margin-right: 4px;
+    background-color: none;
+}
+#vide p{
+    position: absolute;
+    bottom: 0;
+    width: 60px;
+    margin-bottom: 0;
+}
+.carre{
+    height: 90px;
+    width: 60px;
+    margin-right: 4px;
+    background-color: #222222;
+    border: solid 1px #272727;
+    text-align: center;
+}
+.carre2{
+    height: 90px;
+    width: 124px;
+    margin-right: 4px;
+    background-color: #222222;
+    border: solid 1px #272727;
+    text-align: center;
+}
+#rouge{
+    background-color: #FF6666;
+}
+#beige{
+    background-color: #FFDEAD;
+}
+#rose{
+    background-color: #FFC0C0;
+}
+#rosef{
+    background-color: #FFBFFF;
+}
+#violet{
+    background-color: #FF99CC;
+}
+#gris{
+    background-color: #CCCCCC;
+}
+#caquis{
+    background-color: #CCCC99;
+}
+#vert{
+    background-color: #A0FFA0;
+}
+#jaune{
+    background-color: #FFFF99;
+}
+#bleu{
+    background-color: #C0FFFF;
+}
+@media (max-width: 1300px) {
+    .col-xs-1{
+        display: inline-block;
+        margin: 2px;
+    }
+}
