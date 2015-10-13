@@ -10,6 +10,28 @@ p{
 #tuto p{
     font-size: 14px;
 }
+.flecheL{
+    height: 170px;
+    width: 35px;
+    position: absolute;
+    left: 80%;
+    z-index: 2;
+    top: 85px;
+    border-left: solid 4px rgba(0, 0, 0, 0.50);
+    border-bottom: solid 4px rgba(0, 0, 0, 0.50);
+    border-radius: 0 0 0 5px;
+}
+.flecheA{
+    height: 170px;
+    width: 80px;
+    position: absolute;
+    left: 45%;
+    z-index: 2;
+    top: 85px;
+    border-left: solid 4px rgba(0, 0, 0, 0.50);
+    border-bottom: solid 4px rgba(0, 0, 0, 0.50);
+    border-radius: 0 0 0 5px;
+}
 .row{
     margin-top: 4px;
 }
@@ -95,5 +117,8 @@ p{
     .col-xs-1{
         display: inline-block;
         margin: 2px;
+    }
+    .flecheL, .flecheA{
+        display: none;
     }
 }

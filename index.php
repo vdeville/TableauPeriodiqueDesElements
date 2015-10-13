@@ -167,7 +167,9 @@
         <div class="col-xs-1 hidden-md hidden-sm hidden-xs"><p>6</p></div>
         <div class="col-xs-1 carre" id="rouge"><p>Césium</p><p>55</p><p>Cs</p></div>
         <div class="col-xs-1 carre" id="beige"><p>Baryum</p><p>56</p><p>Ba</p></div>
-        <div class="col-xs-2 carre2" id="rosef"><p>Lanthanides</p><p>57-71</p><p>-</p></div>
+        <div class="col-xs-2 carre2" id="rosef"><p>Lanthanides</p><p>57-71</p><p>-</p>
+            <div class="flecheL"></div>
+        </div>
         <div class="col-xs-1 carre" id="rose"><p>Hafnium</p><p>72</p><p>Hf</p></div>
         <div class="col-xs-1 carre" id="rose"><p>Tantale</p><p>73</p><p>Ta</p></div>
         <div class="col-xs-1 carre" id="rose"><p>Tangstène</p><p>74</p><p>W</p></div>
@@ -188,7 +190,9 @@
         <div class="col-xs-1 hidden-md hidden-sm hidden-xs"><p>7</p></div>
         <div class="col-xs-1 carre" id="rouge"><p>Francium</p><p>87</p><p>Fr</p></div>
         <div class="col-xs-1 carre" id="beige"><p>Radium</p><p>88</p><p>Ra</p></div>
-        <div class="col-xs-2 carre2" id="violet"><p>Actinides</p><p>89-103</p><p>-</p></div>
+        <div class="col-xs-2 carre2" id="violet"><p>Actinides</p><p>89-103</p><p>-</p>
+            <div class="flecheA"></div>
+        </div>
         <div class="col-xs-1 carre" id="rose"><p>Rutherfodium</p><p>104</p><p>Rf</p></div>
         <div class="col-xs-1 carre" id="rose"><p>Dubnium</p><p>105</p><p>Db</p></div>
         <div class="col-xs-1 carre" id="rose"><p>Seaborgium</p><p>106</p><p>Sg</p></div>
@@ -204,6 +208,51 @@
         <div class="col-xs-1 carre" id="gris"><p>Livermorium</p><p>116</p><p>Lv</p></div>
         <div class="col-xs-1 carre" id="jaune"><p>Ununseptium</p><p>117</p><p>Uus</p></div>
         <div class="col-xs-1 carre" id="bleu"><p>Ununoctium</p><p>118</p><p>Uuo</p></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide" style="margin-right: 8px;"></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Lanthane</p><p>57</p><p>La</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Cérium</p><p>58</p><p>Ce</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Praséodyme</p><p>59</p><p>Pr</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Néodyme</p><p>60</p><p>Nd</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Prométhium</p><p>61</p><p>Pm</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Samarium</p><p>62</p><p>Sm</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Europium</p><p>63</p><p>Eu</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Gadolinium</p><p>64</p><p>Gd</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Terbium</p><p>65</p><p>Tb</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Dysprosium</p><p>66</p><p>Dy</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Holmium</p><p>67</p><p>Ho</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Erbium</p><p>68</p><p>Er</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Thulium</p><p>69</p><p>Tm</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Ytterbium</p><p>70</p><p>Yb</p></div>
+        <div class="col-xs-1 carre" id="rosef"><p>Lutécium</p><p>71</p><p>Lu</p></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide"></div>
+        <div class="col-xs-1 hidden-md hidden-sm hidden-xs" id="vide" style="margin-right: 8px;"></div>
+        <div class="col-xs-1 carre" id="violet"><p>Actinium</p><p>89</p><p>Ac</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Thorium</p><p>90</p><p>Th</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Protactinium</p><p>91</p><p>Pa</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Uranium</p><p>92</p><p>U</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Neptunium</p><p>93</p><p>Np</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Plutonium</p><p>94</p><p>Pu</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Americium</p><p>95</p><p>Am</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Curium</p><p>96</p><p>Cm</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Berkélium</p><p>97</p><p>Bk</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Californium</p><p>98</p><p>Cf</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Einsteinium</p><p>99</p><p>Es</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Fermium</p><p>100</p><p>Fm</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Mendélévium</p><p>101</p><p>Md</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Nobélium</p><p>102</p><p>No</p></div>
+        <div class="col-xs-1 carre" id="violet"><p>Lawrencium</p><p>103</p><p>Lr</p></div>
+
     </div>
 
 </div>
